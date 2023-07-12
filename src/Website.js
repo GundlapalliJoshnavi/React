@@ -1,5 +1,5 @@
 import React from 'react';
-import  'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './Website.css';
 import track from './track.png';
 import acc from './acc.png';
