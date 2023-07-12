@@ -1,0 +1,72 @@
+.head{
+    margin: 20px 28px;
+}
+.a{
+    color:#f23f9e;
+    text-decoration: none;
+}
+
+.h-one,.h-two{
+    display: inline-block;
+}
+.h-two{
+    padding-left: 20px;
+}
+.card{
+    margin: 15px;
+    background-color: white;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    padding-top: 20px;
+    
+}
+.dribbble{
+    width: 150px;
+    height:50px;
+}
+.track,.acc,.wish{
+    width: 30px;
+    height:30px;
+}
+button{
+    color: white;
+    background-color: #8400ff;
+    border: none;
+    border-radius: 3px;
+    
+}
+.contai{
+    padding-left: 30px;
+}
+.card-con{
+    color: white;
+    background-color:#8400ff ;
+    width: 250px;
+    line-height: 35px;
+    padding: 3px;
+}
+ol{
+    list-style: none;
+}
+.data1,.data2{
+   display: inline-block;
+}
+.check{
+    padding-left: 30px;
+}
+.check,.check-num{
+    display: inline-block;
+
+}
+.lineone,.linetwo{
+    display: inline-block;
+}
+
+.sub-containertwo{
+    position: relative;
+    top:-600px;
+    left: 300px;
+}
